@@ -1,3 +1,7 @@
 # DTUIElement
 
-A description of this package.
+Это экспериментальный SPM с всего одним элементом
+</br>
+</br>
+## Элементы для использования.
+`StepperWithNumber()` - создаёт степпер с числом между + и -
